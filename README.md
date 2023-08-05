@@ -1,9 +1,5 @@
-# Vite ⚡
+# LinkTree Design
 
-> Next Generation Frontend Tooling
+A static LinkTree webpage design made for a course project using [Vite](https://vitejs.dev) but this project doesn't use Javascript. It was made only using HTML5 and CSS as a responsive LinkTree homepage.
 
-All you need to do is hit run and start making changes which will be updated live.
-
-You can add install and use npm packages, you can use the Packager tool to search and manage your packages.
-
-[Read the Docs to Learn More](https://vitejs.dev) and configure your frontend application.
+It was designed by me with citric and warm colors that I think flowed really nice with the project. :)
